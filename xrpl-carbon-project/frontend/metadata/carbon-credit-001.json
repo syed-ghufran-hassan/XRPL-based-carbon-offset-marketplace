@@ -1,0 +1,21 @@
+{
+  "name": "Carbon Credit #001",
+  "description": "Represents 1 metric ton of CO2 offset through sustainable projects.",
+  "issuer": "XRPL Carbon Project",
+  "dateIssued": "2025-12-07",
+  "projectId": "CC-001",
+  "amount": "1",
+  "unit": "ton CO2",
+  "location": "Global",
+  "image": "https://example.com/carbon-credit-image.png",
+  "attributes": [
+    {
+      "trait_type": "Verified",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Renewable Energy"
+    }
+  ]
+}

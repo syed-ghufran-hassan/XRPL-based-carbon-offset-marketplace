@@ -1,0 +1,4 @@
+Wallet: rUsQaNrSewfa8AKSCLWRDmnT1J9SuSAnFR
+Mint TX: 951D5EF69C6F3DC1DB451F2ABEF0B1B9FE2B2CD814C752E8CEDFB2FA2D92F7EA
+Explorer: https://testnet.xrpl.org/transactions/951D5EF69C6F3DC1DB451F2ABEF0B1B9FE2B2CD814C752E8CEDFB2FA2D92F7EA
+Metadata URI: https://black-occupational-pinniped-205.mypinata.cloud/ipfs/bafkreihghhq5puz6knowvyk7dv5vygbbtgsbmg7msauf746fvgy5p3xuv4
